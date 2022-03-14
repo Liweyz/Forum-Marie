@@ -81,13 +81,9 @@ html {
     border-spacing: 5px 1rem;
     margin: right;
     position: relative;
-    width: 670px;
-    height: 250px;
-    background-color: bl;
     border-radius: 10px;
     box-shadow: 0px 0px 50px black;
-    left:15%;
-    vertical-align: -100px;
+   
 }
 #bloc2 {
   font-family: 'Shippori Antique B1', sans-serif;
@@ -104,13 +100,8 @@ html {
   border-spacing: 5px 1rem;
   margin: left;
   position: relative;
-  width: 670px;
-  height: 250px;
-  background-color: bl;
   border-radius: 10px;
   box-shadow: 0px 0px 50px black;
-  left:15%;
-  vertical-align: -100px;
 }
 
 #blocc {
@@ -119,7 +110,7 @@ html {
   height: max-content;
   width: 400px;
   margin: 50px auto;
-  border-radius: 30px;
+  border-radius: 50px;
   box-shadow: #524A3A;
   font-size: 1em;
   text-align: center;
@@ -127,13 +118,8 @@ html {
   float: inline-start;
   margin: right;
   position: relative;
-  width: 670px;
-  height: 250px;
-  background-color: bl;
   border-radius: 10px;
   box-shadow: 0px 0px 50px black;
-  left:15%;
-  vertical-align: -100px;
 }
 #TexteInto {
     flex-grow: initial;
